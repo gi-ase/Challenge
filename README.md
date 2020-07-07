@@ -1,6 +1,5 @@
 # Challenge
 
-Tempus Bioinformatics Technical Challenge
 For this challenge, you are asked to prototype a variant annotation tool. We will provide you with
 a VCF file, and you will create a small software program to output a table annotating each
 variant in the file. Each variant must be annotated with the following pieces of information:
